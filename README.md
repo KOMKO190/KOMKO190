@@ -10,6 +10,6 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="Rust" width="22px" src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" />
+<img align="left" alt="Rust" width="22px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png" />
 <img align="left" alt="VS Code" width="22px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
 
