@@ -1,6 +1,6 @@
 ### Hey! My name is Luka, but I'm known as komko.
 
-- 🔭 I'm learning Rust, Kotlin, C# and Flutter.
+- 🔭 I'm learning Rust, C# and Flutter.
 - 🚀 Working on an AR Start-Up!
 - 🐍 My main language is Python.
 
