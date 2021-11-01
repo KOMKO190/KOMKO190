@@ -10,3 +10,4 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
+<img align="left" alt="Flutter" width="22px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" />
