@@ -5,4 +5,4 @@
 - 🐍 My main language is Python.
 
 ### Social Media:
-[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][https://instagram.com/@beedicc]
