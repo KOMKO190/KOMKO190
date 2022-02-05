@@ -1,6 +1,6 @@
 ### Hey! My name is Luka, but I'm known as komko.
 
-- 🔭 I'm learning C# and Flutter.
+- 🔭 I'm learning C and Godot Engine.
 - 🐍 My main language is Python.
 
 ### Social Media:
