@@ -10,4 +10,4 @@
 ### Languages and Tools:
 <img align="left" alt="Python" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
 <img align="left" alt="VS Code" width="22px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
-
+<img align="left" alt="C" width="22px" src="[https://code.visualstudio.com/assets/images/code-stable.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917)" />
