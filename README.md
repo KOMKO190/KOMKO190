@@ -1,7 +1,8 @@
 ### Hey! My name is Luka, but I'm known as komko.
 
-- 🔭 I'm learning C, C# and Godot Engine.
+- 🔭 I'm learning C# and Godot Engine.
 - 🐍 My main language is Python.
+- 🌐 Webflow building and Figma UI/UX design.
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
