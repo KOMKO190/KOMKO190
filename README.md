@@ -10,10 +10,9 @@ I’m a Developer & Designer focused on bridging the gap between clean code and 
 ---
 
 ### 💻 Languages and Tools:
-<img align="left" alt="Python" width="22px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" />
-<img align="left" alt="Webflow" width="22px" src="https://cdn.worldvectorlogo.com/logos/webflow.svg" style="margin-left: 10px;" />
-<img align="left" alt="Figma" width="22px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" style="margin-left: 10px;" />
-<img align="left" alt="C#" width="22px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="margin-left: 10px;" />
+
+<img align="left" alt="Webflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Webflow_logo.svg" style="margin-left: 10px;" />
+<img align="left" alt="Figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="margin-left: 10px;" />
 <br><br>
 
 ---
