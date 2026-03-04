@@ -19,6 +19,6 @@ I’m a Developer & Designer focused on bridging the gap between clean code and 
 
 ### 📈 What I do best:
 * **High-Converting Landing Pages:** Turning visitors into clients through strategic design and optimized CTR.
-  **Interactive Web Tools:** Creating functional math and logic-based web applications. ([Linearno programiranje](https://linearnoprogramiranje.github.io/), [Kalkulator matrica](https://kalkulatormatrica.github.io/), [Metode prebrojavanja](https://ruderhub.github.io/metodeprebrojavanja/) & [Ruderhub](https://ruderhub.github.io/)).
+* **Interactive Web Tools:** Creating functional math and logic-based web applications. ([Linearno programiranje](https://linearnoprogramiranje.github.io/), [Kalkulator matrica](https://kalkulatormatrica.github.io/), [Metode prebrojavanja](https://ruderhub.github.io/metodeprebrojavanja/) & [Ruderhub](https://ruderhub.github.io/)).
 
 📫 **Let's connect:** illmakealinkedin.com | www.illbuyadomain.com
