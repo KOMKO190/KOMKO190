@@ -12,6 +12,7 @@ I’m a Developer & Designer focused on bridging the gap between clean code and 
 ### 💻 Languages and Tools:
 
 <img align="left" alt="Figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="margin-left: 10px;" />
+<img align="left" alt="Webflow" width="22px" src="https://dhygzobemt712.cloudfront.net/Mark/Mark_Logo_Blue.svg" style="margin-left: 10px;" />
 <br><br>
 
 ---
